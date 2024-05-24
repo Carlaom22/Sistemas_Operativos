@@ -57,6 +57,6 @@ Contributions to the project are welcome. If you find any issues or have suggest
 
 ### License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Done by Pedro Lima [https://github.com/pseudolimonada] and Carlos Soares. All rights reserved.
 
 ---
