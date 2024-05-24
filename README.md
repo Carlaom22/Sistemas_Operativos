@@ -57,6 +57,6 @@ Contributions to the project are welcome. If you find any issues or have suggest
 
 ### License
 
-Done by Pedro Lima [https://github.com/pseudolimonada] and Carlos Soares. All rights reserved.
+Done by [Pedro Lima](https://github.com/pseudolimonada) and Carlos Soares. All rights reserved.
 
 ---
